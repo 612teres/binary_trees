@@ -3,8 +3,8 @@
 /**
  * binary_tree_insert_right - ...
  *
- * @parent: ...
- * @value: ...
+ * @parent: points to the parent node
+ * @value: value to be placed in the node
  *
  * Return: must return a pointer to the created node, or NULL on failure
  * or if parent is NULL
